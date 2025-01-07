@@ -1,4 +1,5 @@
-# Set## Initialization
+# Set
+## Initialization
 ```csharp
 new Set()
 new Set((CustomLogicListBuiltin))

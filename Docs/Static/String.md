@@ -1,4 +1,5 @@
-# String## Fields
+# String
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |Newline|String|False|Returns the newline character.|

@@ -1,4 +1,5 @@
-# Cutscene## Methods
+# Cutscene
+## Methods
 |Function|Returns|Description|
 |---|---|---|
 |Start(name : String, full : Boolean)|Void|Start a cutscene|

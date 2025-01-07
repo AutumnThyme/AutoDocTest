@@ -1,4 +1,5 @@
-# Color## Fields
+# Color
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |R|Int32|False|Red component of the color|

@@ -1,4 +1,5 @@
-# Character## Fields
+# Character
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |Player|CustomLogicPlayerBuiltin|False|Player who owns this character.|

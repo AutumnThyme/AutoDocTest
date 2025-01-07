@@ -1,4 +1,5 @@
-# Shifter## Fields
+# Shifter
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |Size|Single|False|Shifter's size.|

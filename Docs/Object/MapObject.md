@@ -1,4 +1,5 @@
-# MapObject## Fields
+# MapObject
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |Static|Boolean|False|Object does not move|

@@ -1,4 +1,5 @@
-# Camera## Fields
+# Camera
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |IsManual|Boolean|False|Is camera in manual mode.|

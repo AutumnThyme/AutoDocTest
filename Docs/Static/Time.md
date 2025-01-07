@@ -1,4 +1,5 @@
-# Time## Fields
+# Time
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |TickTime|Single|False|Time between each tick (0.02 seconds)|

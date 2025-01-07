@@ -1,4 +1,5 @@
-# Collider## Fields
+# Collider
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |AttachedArticulationBody|CustomLogicTransformBuiltin|False||

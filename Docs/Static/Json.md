@@ -1,4 +1,5 @@
-# Json## Methods
+# Json
+## Methods
 |Function|Returns|Description|
 |---|---|---|
 |LoadFromString(json : String)|Object|Loads a json string into a custom logic object|

@@ -1,4 +1,5 @@
-# Map## Methods
+# Map
+## Methods
 |Function|Returns|Description|
 |---|---|---|
 |FindAllMapObjects()|CustomLogicListBuiltin|Find all map objects|

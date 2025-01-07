@@ -1,4 +1,5 @@
-# Human## Fields
+# Human
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |Weapon|String|False|The weapon the human is using|

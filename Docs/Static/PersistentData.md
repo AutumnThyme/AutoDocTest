@@ -1,4 +1,5 @@
-# PersistentData## Methods
+# PersistentData
+## Methods
 |Function|Returns|Description|
 |---|---|---|
 |SetProperty(property : String, value : Object)|Void|Sets the property with given name to the object value. Valid value types are float, string, bool, and int.|

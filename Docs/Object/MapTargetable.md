@@ -1,4 +1,5 @@
-# MapTargetable## Fields
+# MapTargetable
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |Team|String|False|The team of the targetable|

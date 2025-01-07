@@ -1,4 +1,5 @@
-# Input## Methods
+# Input
+## Methods
 |Function|Returns|Description|
 |---|---|---|
 |GetKeyName(key : String)|String|Gets the key name the player assigned to the key setting|

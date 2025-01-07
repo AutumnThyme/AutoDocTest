@@ -1,4 +1,5 @@
-# Game## Fields
+# Game
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |IsEnding|Boolean|False|Is the game ending?|

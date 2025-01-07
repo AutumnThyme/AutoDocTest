@@ -1,4 +1,5 @@
-# Player## Fields
+# Player
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |Character|Object|False|Player's current character, if alive.|

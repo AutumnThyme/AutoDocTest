@@ -1,4 +1,5 @@
-# Dict## Initialization
+# Dict
+## Initialization
 ```csharp
 new Dict()
 ```

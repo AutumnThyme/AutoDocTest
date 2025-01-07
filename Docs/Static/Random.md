@@ -1,4 +1,5 @@
-# Random## Methods
+# Random
+## Methods
 |Function|Returns|Description|
 |---|---|---|
 |RandomInt(min : Int32, max : Int32)|Int32|Generates a random integer between the specified range.|

@@ -1,4 +1,5 @@
-# Convert## Methods
+# Convert
+## Methods
 |Function|Returns|Description|
 |---|---|---|
 |ToFloat(value : Object)|Single|Converts a value to a float|

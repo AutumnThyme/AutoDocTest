@@ -1,4 +1,5 @@
-# Range## Initialization
+# Range
+## Initialization
 ```csharp
 new Range((Object[]))
 ```

@@ -1,4 +1,5 @@
-# Network## Fields
+# Network
+## Fields
 |Field|Type|Readonly|Description|
 |---|---|---|---|
 |IsMasterClient|Boolean|False|Is the player the master client|
